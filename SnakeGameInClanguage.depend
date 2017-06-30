@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1491048786 source:d:\code backup\snakegameinclanguage\main.cpp
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<dos.h>
+	<graphics.h>
+	<stdlib.h>
+	<iostream>
+	<cstring>
+
