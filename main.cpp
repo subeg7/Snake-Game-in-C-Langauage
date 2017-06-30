@@ -9,7 +9,6 @@
 #include<cstring>
 using namespace std;
 
-
 const int limit = 100;
 int platformCircles;
 int headPath[limit];
